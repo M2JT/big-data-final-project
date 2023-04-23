@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 /data/subway/subway2019.csv
 /data/subway/subway2020.csv
+/data/citibike/citibike2019.csv
+/data/citibike/citibike2020.csv
+/data/citibike/citibike2022.csv
